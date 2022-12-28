@@ -118,8 +118,8 @@
  - Move between your `Levels` once the level is complete.
  - Have an `Automatic Tile Map` to quickly create more `Levels`.
  - **GO CREATIVE AND EXPLORE**
-<div float="right">
-  <img src="https://media.tenor.com/xaJrTrfiRcEAAAAM/happy-panda-bamboo.gif"/>
+<div float="center">
+  <img src="https://media.tenor.com/xaJrTrfiRcEAAAAM/happy-panda-bamboo.gif](https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif"/>
 </div>
  
 ## Extra Resources:
