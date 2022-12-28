@@ -125,9 +125,9 @@
 </p>
  
 ## Extra Resources:
-[Lecture](https://docs.google.com/presentation/d/1dV9A2t-hab9TFk4qK4kSlH3Dy74iri7XSTFc9AFVvkY/edit#slide=id.g1bf1654ac85_0_357),
-[Video](https://www.youtube.com/playlist?list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd),
-[Godot Documentation](https://docs.godotengine.org/en/stable/index.html).
+- [Lecture](https://docs.google.com/presentation/d/1dV9A2t-hab9TFk4qK4kSlH3Dy74iri7XSTFc9AFVvkY/edit#slide=id.g1bf1654ac85_0_357).
+- [Video](https://www.youtube.com/playlist?list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd).
+- [Godot Documentation](https://docs.godotengine.org/en/stable/index.html).
 
 
 
