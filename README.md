@@ -107,7 +107,6 @@
   ```
 
 ### Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face:
-#### Call an Instructor/TA to check your completed tasks
 
   
 ## Bonuses:
