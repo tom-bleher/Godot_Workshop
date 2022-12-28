@@ -36,7 +36,7 @@
 ### Part 4 : Creating your Map
  - Right click on `World` and attach a `Sprite` Child Node. 
  - Drag your map from the **Game Folder** to your `Texture` in the **Inspector**.
- - In the **Inspector** click on Region and make sure Enables is On.
+ - In the **Inspector** click on Region and make sure it's enabled.
  - At the bottom of your screen click on `TextureRegion`.
  - Click on `Snap Mode` and make sure it's set to `Grid Snap`.
  - Select the relavent parts of your map.
