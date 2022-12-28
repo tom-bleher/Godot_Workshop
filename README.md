@@ -42,11 +42,16 @@
 <br> 
 
 7. In the **Scene Dock** attach a "KinematicBody2D" Child Node to your "World".
-  - To the "StaticBody2D" attach some "CollisionShape2D" Child Nodes.
-  - In the **Inspector** click on "Shape" and select "New RectangleShape2D".
-  - Make sure you covered your whole map with Collision Shapes.
+  - To the "KinematicBody2D" attach a "CollisionShape2D" Child Node.
+  - Scale your "CollisionShape2D" according to your Character.
+  - To the "CollisionShape2D" attach a "AnimatedSprite" Child Node.
+  - 
+  - 
 
 <br> 
+
+8.
+
 
 ## Bonus:
 
