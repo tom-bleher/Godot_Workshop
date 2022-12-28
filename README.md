@@ -71,7 +71,7 @@
   ```gdscript
   extends KinematicBody2D
   
-  const UP = Vector2()
+  const UP = Vector2(0,-1)
   const GRAVITY = 1200
   const JUMP_HEIGHT = -700
   const SPEED = 200
