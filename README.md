@@ -71,10 +71,39 @@
   ```gdscript
   extends KinematicBody2D
   
+  const UP = Vector2()
   const GRAVITY = 1200
   const JUMP_HEIGHT = -700
   const SPEED = 200
+  ```
+ - Let's define our **Main Physics function** take the following code and complete it:
  
+ ```gdscript
+  func _physics_process(delta):
+    # Set up Gravity
+    if Input.is_action_pressed("ui_right"):
+      # Move player to the right
+      # Play the suiting animation
+      
+    elif Input.is_action_pressed("ui_left"):
+      # Move player to the left
+      # Play the suiting animation
+      
+    else: 
+      motion.x = 0 
+      # Play the suiting animation
+      
+    if is_on_floor():
+      # Set user input for jump 
+      # Play the suiting Animation
+      
+    else:
+      # Play the suiting Animation
+      
+    # Complete the code to play the falling animation when the player is falling 
+      
+      
+   motion = move_and_slide(motion, UP)
   ```
 
 <br>
