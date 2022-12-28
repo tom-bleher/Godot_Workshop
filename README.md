@@ -57,18 +57,29 @@
  - To the `KinematicBody2D` attach a `CollisionShape2D` Child Node.
  - To the `CollisionShape2D` attach a `AnimatedSprite` Child Node.
  - Scale your `CollisionShape2D` according to your Character.
- - Click on your `AnimatedSprite` and in the **Inspector** click on `Frames`, `New SpriteFrames`
+ - Click on your `AnimatedSprite` and in the **Inspector** click on `Frames`, `New SpriteFrames`.
+ - Click on `SpriteFrames` at the buttom of your screen.
+ - Change Default to `Idle` and add your `Idle` frames.
+ - Add `New Animations` for Running, Jumping, Falling.
 
 
 <br> 
 
-8.
+### Part 6 : Coding your Character's movement
+ - Right click on your `KinematicBody2D` and attach a `Script` to it and click `Load`.
+ - ```gdscript.lang 
+   func myfunc():
+   
 
-**Bonus Section below!**
 <br>
 ***Good Job! Remember to show your wonderful work to your Instructors and TAs.***
 
-## Bonus:
+## Bonuses:
+ - Make your `Character` move using **W,A,S,D**
+ - Add more `Levels` to your game by creating more `Scenes`.
+ - Move between your `Levels` once the level is complete.
+ - Have an `Automatic Tile Map` to quickly create more `Levels`.
+ - 
 
 ## Extra Resources:
 [Lecture](https://docs.google.com/presentation/d/1dV9A2t-hab9TFk4qK4kSlH3Dy74iri7XSTFc9AFVvkY/edit#slide=id.g1bf1654ac85_0_357),
