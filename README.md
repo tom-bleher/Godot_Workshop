@@ -7,9 +7,9 @@
 - You will program your player movement.
 
 
-
-<img src="https://i.redd.it/4vepr95bye861.gif" width="640" height="360" align="center"/>
-
+<div align="center">
+<img src="https://i.redd.it/4vepr95bye861.gif" width="640" height="360" />
+</div>
 
 ## Instructions:
 > Before we start, make sure you have godot open and ready for work!
