@@ -25,7 +25,9 @@
 <br>
 
 4. In the **Scene Dock**, Click on the plus icon and add a Node and rename it to "World".  
+
 <br>
+
 5. Right click on "World" and attach a "Sprite" Child Node.
   - Drag your map from the **Game Folder** to your 'Texture' in the **Inspector**.
   - In the **Inspector** click on Region and make sure Enables is On.
