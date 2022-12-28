@@ -60,7 +60,7 @@
  - Click on your `AnimatedSprite` and in the **Inspector** click on `Frames`, `New SpriteFrames`.
  - Click on `SpriteFrames` at the buttom of your screen.
  - Change Default to `Idle` and add your `Idle` frames.
- - Add `New Animations` for Running, Jumping, Falling.
+ - Add `New Animations` for Running, Jumping, Falling and add their corresponding `Sprites`.
 
 
 <br> 
