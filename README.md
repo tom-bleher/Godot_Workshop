@@ -7,6 +7,7 @@
   - You will program your player movement.
   - You will create your own Minigame.
 
+<br>
 <div align="center">
 <img src="https://i.redd.it/4vepr95bye861.gif" width="640" height="360" />
 </div>
