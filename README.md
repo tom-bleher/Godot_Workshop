@@ -105,18 +105,18 @@
       
    motion = move_and_slide(motion, UP)
   ```
-
+<p align="center">
 #### Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face:
 ##### Call an Instructor/TA to check your completed tasks
-
-
+<p>
+  
 ## Bonuses:
  - Make your `Character` move using **W,A,S,D**
  - Add more `Levels` to your game by creating more `Scenes`.
  - Move between your `Levels` once the level is complete.
  - Have an `Automatic Tile Map` to quickly create more `Levels`.
  - **GO CREATIVE AND EXPLORE**
-<p float="center">
+<p align="center">
   <img src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif"/>
 </p>
  
