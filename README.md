@@ -107,7 +107,9 @@
   ```
 
 <br>
+<div align="center">
 **Good Job! Remember to show your wonderful work to your Instructors and TAs**
+</div>
 
 ## Bonuses:
  - Make your `Character` move using **W,A,S,D**
