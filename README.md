@@ -2,10 +2,10 @@
   
   ## Objective:
   During this worktime: 
-- You will be intruduced to Game Development.
-- You will be using GDScript as a programming language.
-- You will program your player movement.
-- You will create your own Minigame.
+    - You will be intruduced to Game Development.
+    - You will be using GDScript as a programming language.
+    - You will program your player movement.
+    - You will create your own Minigame.
 
 <div align="center">
 <img src="https://i.redd.it/4vepr95bye861.gif" width="640" height="360" />
