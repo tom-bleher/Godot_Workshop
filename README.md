@@ -21,8 +21,8 @@
 
 3. Open Godot and in your **Game Folder** create 2 folders: `Map` and `Player`.
     - Drag your map and character into your folder.
- 	  - In the **Scene Dock** click on import, Preset, 2D Pixel, Set as Default for 'Texture'.
- 	  - Finally click Reimport!
+    - In the **Scene Dock** click on import, Preset, 2D Pixel, Set as Default for 'Texture'.
+    - Finally click Reimport!
 <br>
 
 4. In the **Scene Dock**, Click on the plus icon and add a Node and rename it to "World".  
@@ -52,7 +52,7 @@
     - To the "CollisionShape2D" attach a "AnimatedSprite" Child Node.
     - Scale your "CollisionShape2D" according to your Character.
     - Click on your "AnimatedSprite" and in the **Inspector** click on "Frames", "New SpriteFrames"
-  - 
+
 
 <br> 
 
