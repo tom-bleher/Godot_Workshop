@@ -107,8 +107,8 @@
   ```
 
 ### Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face:
-
-  
+<br>
+<br>
 ## Bonuses:
  - Make your `Character` move using **W,A,S,D**
  - Add more `Levels` to your game by creating more `Scenes`.
