@@ -108,7 +108,7 @@
 
 <br>
 <div align="center">
-**Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face:**
+##Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face:
 </div>
 
 ## Bonuses:
