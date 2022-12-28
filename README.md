@@ -118,9 +118,9 @@
  - Move between your `Levels` once the level is complete.
  - Have an `Automatic Tile Map` to quickly create more `Levels`.
  - **GO CREATIVE AND EXPLORE**
-<div float="center">
+<p float="center">
   <img src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif"/>
-</div>
+</p>
  
 ## Extra Resources:
 [Lecture](https://docs.google.com/presentation/d/1dV9A2t-hab9TFk4qK4kSlH3Dy74iri7XSTFc9AFVvkY/edit#slide=id.g1bf1654ac85_0_357),
