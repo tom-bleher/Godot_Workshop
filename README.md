@@ -100,7 +100,7 @@
     else:
       # Play the suiting Animation
       
-    # Complete the code to play the falling animation when the player is falling 
+      # Complete the code to play the falling animation when the player is falling 
       
       
    motion = move_and_slide(motion, UP)
