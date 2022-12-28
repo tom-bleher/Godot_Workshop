@@ -118,6 +118,7 @@
  - Move between your `Levels` once the level is complete.
  - Implement `Double jump`.
  - Have an `Automatic Tile Map` to quickly create more `Levels`.
+ - Make your character's movement more smooth using `lerp()`
  - **GO CREATIVE AND EXPLORE**
 <p align="center">
   <img src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif"/>
