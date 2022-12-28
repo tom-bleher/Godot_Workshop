@@ -107,7 +107,7 @@
   ```
 
 <br>
-**Good Job! Remember to show your wonderful work to your Instructors and TAs.**
+**Good Job! Remember to show your wonderful work to your Instructors and TAs**
 
 ## Bonuses:
  - Make your `Character` move using **W,A,S,D**
