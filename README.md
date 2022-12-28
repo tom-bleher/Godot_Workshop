@@ -8,7 +8,7 @@
 
 
 
-[![](https://i.redd.it/4vepr95bye861.gif =640x360)]()
+[![](https://i.redd.it/4vepr95bye861.gif)]()
 
 
 
