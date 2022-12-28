@@ -67,8 +67,9 @@
 
 ### Part 6 : Coding your Character's movement
  - Right click on your `KinematicBody2D` and attach a `Script` to it and click `Load`.
- - ```gdscript.lang 
+ - ```source.gdscript
    func myfunc():
+    motion.y += GRAVITY*delta 
    
 
 <br>
