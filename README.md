@@ -16,8 +16,8 @@
 ## Instructions:
 > Before we start, make sure you have godot open and ready for work!
 
-1. Choose your character from: [Resource](https://drive.google.com/drive/folders/17heoqicF1QPqbZkdqBJTqS7rkZeMe7k_).
-2. Choose your map from: [Resource](https://drive.google.com/drive/folders/1qKDc3ycTWMciUUyECka5DdPp5M8XxmWL).
+1. Choose your [Character](https://drive.google.com/drive/folders/17heoqicF1QPqbZkdqBJTqS7rkZeMe7k_).
+2. Choose your [Map](https://drive.google.com/drive/folders/1qKDc3ycTWMciUUyECka5DdPp5M8XxmWL).
 <br>
 
 3. Open Godot and in your **Game Folder** create 2 folders: `Map` and `Player`.
