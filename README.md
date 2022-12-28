@@ -80,7 +80,7 @@
  
  ```gdscript
   func _physics_process(delta):
-      # Apply Gravity
+    # Apply Gravity
     if Input.is_action_pressed("ui_right"):
       # Move player to the right
       # Play the suiting animation
