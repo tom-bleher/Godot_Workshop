@@ -34,18 +34,21 @@
   - Select the relavent parts of your map.
   - Build some obstacles for your player.
   - finalize your map structure.
+
 <br>  
+
 6. In the **Scene Dock** attach a "StaticBody2D" Child Node to your "Sprite".
   - To the "StaticBody2D" attach some "CollisionShape2D" Child Nodes.
   - In the **Inspector** click on "Shape" and select "New RectangleShape2D".
   - Make sure you covered your whole map with Collision Shapes.
+  
 <br> 
 
 7. In the **Scene Dock** attach a "KinematicBody2D" Child Node to your "World".
   - To the "KinematicBody2D" attach a "CollisionShape2D" Child Node.
-  - Scale your "CollisionShape2D" according to your Character.
   - To the "CollisionShape2D" attach a "AnimatedSprite" Child Node.
-  - 
+  - Scale your "CollisionShape2D" according to your Character.
+  - Click on your "AnimatedSprite" and in the **Inspector** click on "Frames", "New SpriteFrames"
   - 
 
 <br> 
