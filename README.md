@@ -16,20 +16,24 @@
 ## Instructions:
 > Before we start, make sure you have godot open and ready for work!
 
+### Part 1 : Designing your game
 1. Choose your [Character](https://drive.google.com/drive/folders/17heoqicF1QPqbZkdqBJTqS7rkZeMe7k_).
 2. Choose your [Map](https://drive.google.com/drive/folders/1qKDc3ycTWMciUUyECka5DdPp5M8XxmWL).
 <br>
 
+### Part 2 : Importing to Godot
 3. Open Godot and in your **Game Folder** create 2 folders: `Map` and `Player`.
     - Drag your map and character into your folder.
     - In the **Scene Dock** click on import, Preset, 2D Pixel, Set as Default for 'Texture'.
     - Finally click Reimport!
 <br>
 
+### Part 3 : Creating the main Node
 4. In the **Scene Dock**, Click on the plus icon and add a Node and rename it to "World".  
 
 <br>
 
+### Part 4 : Creating your Map
 5. Right click on `World` and attach a `Sprite` Child Node. 
     - Drag your map from the **Game Folder** to your `Texture` in the **Inspector**.
     - In the **Inspector** click on Region and make sure Enables is On.
@@ -48,6 +52,7 @@
   
 <br> 
 
+### Part 5 : Creating your Character & Animations
 7. In the **Scene Dock** attach a `KinematicBody2D` Child Node to your `World`.
     - To the `KinematicBody2D` attach a `CollisionShape2D` Child Node.
     - To the `CollisionShape2D` attach a `AnimatedSprite` Child Node.
