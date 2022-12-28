@@ -108,8 +108,7 @@
 
 <br>
 <div align="center">
-## Objective:
-## Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face:
+<h1> Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face: <h1>
 </div>
 
 ## Bonuses:
