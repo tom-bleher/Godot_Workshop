@@ -106,12 +106,10 @@
    motion = move_and_slide(motion, UP)
   ```
 
-<br>
-<p align="center">
-<h2> Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face: <h2>
-</p>
-<br>
- 
+#### Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face:
+##### Call an Instructor/TA to check your completed tasks
+
+
 ## Bonuses:
  - Make your `Character` move using **W,A,S,D**
  - Add more `Levels` to your game by creating more `Scenes`.
