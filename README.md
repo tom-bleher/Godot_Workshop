@@ -76,7 +76,7 @@
   const JUMP_HEIGHT = -700
   const SPEED = 200
   ```
- - Let's define our **Main Physics function** take the following code and complete it:
+ - Let's define our **Main Physics function**, take the following code and complete it:
  
  ```gdscript
   func _physics_process(delta):
