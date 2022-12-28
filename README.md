@@ -116,6 +116,7 @@
  - Make your `Character` move using **W,A,S,D**
  - Add more `Levels` to your game by creating more `Scenes`.
  - Move between your `Levels` once the level is complete.
+ - Implement double junp.
  - Have an `Automatic Tile Map` to quickly create more `Levels`.
  - **GO CREATIVE AND EXPLORE**
 <p align="center">
