@@ -69,6 +69,8 @@
  - Right click on your `KinematicBody2D` and attach a `Script` to it and click `Load`.
  - Let's define our `Key Constants`:
   ```gdscript
+  extends KinematicBody2D
+  
   const GRAVITY = 1200
   const JUMP_HEIGHT = -700
   const SPEED = 200
