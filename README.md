@@ -21,7 +21,7 @@
  	- Drag your map and character into your folder.
  	- In the **Scene Dock** click on import, Preset, 2D Pixel, Set as Default for 'Texture'.
  	- Finally click Reimport!
-
+<br>
 4. In the **Scene Dock**, Click on the plus icon and add a Node and rename it to "World".  
 6. Right click on "World" and attach a "Sprite" Child Node.
   - Drag your map from the **Game Folder** to your 'Texture' in the **Inspector**.
@@ -31,21 +31,25 @@
   - Select the relavent parts of your map.
   - Build some obstacles for your player.
   - finalize your map structure.
-  
+<br>  
 7. In the **Scene Dock** attach a "StaticBody2D" Child Node to your "Sprite".
   - To the "StaticBody2D" attach some "CollisionShape2D" Child Nodes.
   - In the **Inspector** click on "Shape" and select "New RectangleShape2D".
   - Make sure you covered your whole map with Collision Shapes.
-  
+<br> 
+
 8. In the **Scene Dock** attach a "KinematicBody2D" Child Node to your "World".
   - To the "StaticBody2D" attach some "CollisionShape2D" Child Nodes.
   - In the **Inspector** click on "Shape" and select "New RectangleShape2D".
   - Make sure you covered your whole map with Collision Shapes.
-  
+
+<br> 
+
+## Bonus:
 
 ## Extra Resources:
-[Lecture](https://docs.google.com/presentation/d/1dV9A2t-hab9TFk4qK4kSlH3Dy74iri7XSTFc9AFVvkY/edit#slide=id.g1bf1654ac85_0_357).
-[Video](https://www.youtube.com/playlist?list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd).
+[Lecture](https://docs.google.com/presentation/d/1dV9A2t-hab9TFk4qK4kSlH3Dy74iri7XSTFc9AFVvkY/edit#slide=id.g1bf1654ac85_0_357),
+[Video](https://www.youtube.com/playlist?list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd),
 [Godot Documentation](https://docs.godotengine.org/en/stable/index.html).
 
 
