@@ -23,7 +23,7 @@
 
 ### Part 2 : Importing to Godot
  - Open Godot and in your **Game Folder** create 2 folders: `Map` and `Player`.
- - Drag your map and character into your folder.
+ - Drag your map and character sprites into your folder.
  - In the **Scene Dock** click on import, Preset, 2D Pixel, Set as Default for 'Texture'.
  - Finally click Reimport!
 <br>
