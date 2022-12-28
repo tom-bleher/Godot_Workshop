@@ -59,6 +59,9 @@
 
 8.
 
+**Bonus Section below!**
+<br>
+***Good Job! Remember to show your wonderful work to your Instructors and TAs.***
 
 ## Bonus:
 
