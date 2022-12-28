@@ -55,7 +55,7 @@
 ### Part 5 : Creating your Character & Animations
  - In the **Scene Dock** attach a `KinematicBody2D` Child Node to your `World`.
  - To the `KinematicBody2D` attach a `CollisionShape2D` Child Node.
- - To the `CollisionShape2D` attach a `AnimatedSprite` Child Node.
+ - To the `KinematicBody2D` attach a `AnimatedSprite` Child Node.
  - Scale your `CollisionShape2D` according to your Character.
  - Click on your `AnimatedSprite` and in the **Inspector** click on `Frames`, `New SpriteFrames`.
  - Click on `SpriteFrames` at the buttom of your screen.
