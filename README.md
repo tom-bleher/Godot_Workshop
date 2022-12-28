@@ -36,6 +36,19 @@
   - To the "StaticBody2D" attach some "CollisionShape2D" Child Nodes.
   - In the **Inspector** click on "Shape" and select "New RectangleShape2D".
   - Make sure you covered your whole map with Collision Shapes.
-
   
+8. In the **Scene Dock** attach a "KinematicBody2D" Child Node to your "World".
+  - To the "StaticBody2D" attach some "CollisionShape2D" Child Nodes.
+  - In the **Inspector** click on "Shape" and select "New RectangleShape2D".
+  - Make sure you covered your whole map with Collision Shapes.
+  
+
+## Extra Resources:
+[Lecture](https://docs.google.com/presentation/d/1dV9A2t-hab9TFk4qK4kSlH3Dy74iri7XSTFc9AFVvkY/edit#slide=id.g1bf1654ac85_0_357).
+[Video](https://www.youtube.com/playlist?list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd).
+[Godot Documentation](https://docs.godotengine.org/en/stable/index.html).
+
+
+
+
 
