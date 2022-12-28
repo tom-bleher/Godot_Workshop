@@ -67,7 +67,7 @@
 
 ### Part 6 : Coding your Character's movement
  - Right click on your `KinematicBody2D` and attach a `Script` to it and click `Load`.
- - Let's define our `Key Constants`:
+ - Let's define our **Key Constants**:
   ```gdscript
   extends KinematicBody2D
   
@@ -85,7 +85,7 @@
  - Add more `Levels` to your game by creating more `Scenes`.
  - Move between your `Levels` once the level is complete.
  - Have an `Automatic Tile Map` to quickly create more `Levels`.
- - 
+ - ** GO CREATIVE AND EXPLORE **
 
 ## Extra Resources:
 [Lecture](https://docs.google.com/presentation/d/1dV9A2t-hab9TFk4qK4kSlH3Dy74iri7XSTFc9AFVvkY/edit#slide=id.g1bf1654ac85_0_357),
