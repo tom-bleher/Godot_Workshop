@@ -108,7 +108,7 @@
 
 <br>
 <div align="center">
-**Good Job! Remember to show your wonderful work to your Instructors and TAs**
+**Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face:**
 </div>
 
 ## Bonuses:
@@ -119,8 +119,8 @@
  - **GO CREATIVE AND EXPLORE**
 <div float="right">
   <img src="https://media.tenor.com/xaJrTrfiRcEAAAAM/happy-panda-bamboo.gif"/>
- </div>
-
+</div>
+ 
 ## Extra Resources:
 [Lecture](https://docs.google.com/presentation/d/1dV9A2t-hab9TFk4qK4kSlH3Dy74iri7XSTFc9AFVvkY/edit#slide=id.g1bf1654ac85_0_357),
 [Video](https://www.youtube.com/playlist?list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd),
