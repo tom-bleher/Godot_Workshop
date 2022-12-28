@@ -9,7 +9,7 @@
 
 <br>
 <div align="center">
-<img src="https://i.redd.it/4vepr95bye861.gif" width="640" height="360" />
+<img src="https://i.redd.it/4vepr95bye861.gif" width="50%" height="50%" />
 </div>
 
 
