@@ -111,6 +111,7 @@
 <h2> Good Job! Remember to show your wonderful work to your Instructors and TAs :partying_face: <h2>
 </div>
 <br>
+ 
 ## Bonuses:
  - Make your `Character` move using **W,A,S,D**
  - Add more `Levels` to your game by creating more `Scenes`.
