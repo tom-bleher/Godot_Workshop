@@ -25,7 +25,8 @@
 <br>
 
 4. In the **Scene Dock**, Click on the plus icon and add a Node and rename it to "World".  
-6. Right click on "World" and attach a "Sprite" Child Node.
+<br>
+5. Right click on "World" and attach a "Sprite" Child Node.
   - Drag your map from the **Game Folder** to your 'Texture' in the **Inspector**.
   - In the **Inspector** click on Region and make sure Enables is On.
   - At the bottom of your screen click on "TextureRegion".
@@ -34,13 +35,13 @@
   - Build some obstacles for your player.
   - finalize your map structure.
 <br>  
-7. In the **Scene Dock** attach a "StaticBody2D" Child Node to your "Sprite".
+6. In the **Scene Dock** attach a "StaticBody2D" Child Node to your "Sprite".
   - To the "StaticBody2D" attach some "CollisionShape2D" Child Nodes.
   - In the **Inspector** click on "Shape" and select "New RectangleShape2D".
   - Make sure you covered your whole map with Collision Shapes.
 <br> 
 
-8. In the **Scene Dock** attach a "KinematicBody2D" Child Node to your "World".
+7. In the **Scene Dock** attach a "KinematicBody2D" Child Node to your "World".
   - To the "StaticBody2D" attach some "CollisionShape2D" Child Nodes.
   - In the **Inspector** click on "Shape" and select "New RectangleShape2D".
   - Make sure you covered your whole map with Collision Shapes.
