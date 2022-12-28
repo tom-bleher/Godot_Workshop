@@ -67,9 +67,12 @@
 
 ### Part 6 : Coding your Character's movement
  - Right click on your `KinematicBody2D` and attach a `Script` to it and click `Load`.
+ - Let's define our `Key Constants`:
   ```gdscript
-   func myfunc():
-    motion.y += GRAVITY*delta 
+  const GRAVITY = 1200
+  const JUMP_HEIGHT = -700
+  const SPEED = 200
+ 
   ```
 
 <br>
