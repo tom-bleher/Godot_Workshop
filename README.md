@@ -34,14 +34,21 @@
 <br>
 
 ### Part 4 : Creating your Map
- - Right click on `World` and attach a `Sprite` Child Node. 
- - Drag your map from the **Game Folder** to your `Texture` in the **Inspector**.
+ - Create a new `Scene` , add a `Sprite` to your `Scene`, drag and drop the `Tile set` to the texture of your `Sprite`.
+ - Turn off the `Center` priority in your offset.
  - In the **Inspector** click on Region and make sure it's enabled.
- - At the bottom of your screen click on `TextureRegion`.
- - Click on `Snap Mode` and make sure it's set to `Grid Snap`.
- - Select the relavent parts of your map.
- - Build some obstacles for your player.
- - finalize your map structure.
+ - Go to your `Texture Region` , change the step to 32px.
+ - Select the relevant part of your `Tile map`.
+ - Add a `Static body` to it and `collusion shape`.
+ - Set the shape of your `collusion shape` to rectangle.
+ - In `Transform property`, change the position to 16px, 16px.
+ - Scale you `Collusion box` to cover up your `Static body`.
+ - Save the `Tile set`.
+ - Group your `Sprite nodes`.
+ - Use `Ctrl+d` to duplicate the `Sprites`, then change the selection of the single tile.
+ - Click on `Scene` on the top left 
+ - Convert the `Scene` into a `TileSet` and save the file as `name.tres`.
+ - Add a `Tile map` node.
 
 <br>  
 
