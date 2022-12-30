@@ -48,7 +48,10 @@
  - Use `Ctrl+d` to duplicate the `Sprites`, then change the selection of the single tile.
  - Click on `Scene` on the top left 
  - Convert the `Scene` into a `TileSet` and save the file as `name.tres`.
- - Add a `Tile map` node.
+ - Add a `Tile map` node change the cell size to 32px, 32px add your tile set to the texture of the node.
+ - Then by picking the exact tile you want to add form your tile map.
+ 
+ 
 
 <br>  
 
